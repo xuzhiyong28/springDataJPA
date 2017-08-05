@@ -1,0 +1,8 @@
+com\springdatajpa\service\Impl\UserServiceImpl.class
+com\springdatajpa\dao\UserInfoRepositoryImpl.class
+com\springdatajpa\dao\LearnResourceRepository.class
+com\springdatajpa\domain\LearnResource.class
+com\springdatajpa\domain\UserInfo.class
+com\springdatajpa\dao\UserInfoDao.class
+com\springdatajpa\service\UserSerivce.class
+com\springdatajpa\dao\UserInfoRepository.class
